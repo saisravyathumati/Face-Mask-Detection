@@ -1,0 +1,2 @@
+# Face-Mask-Detection
+Due to the prevailing pandemic situation (COVID 19), we need to take various preventive measures. One such important measures is to wear a face mask. It is very difficult to check each and every individual wearing a mask at public places. So, my main focus is to detect whether a person is wearing a face mask or not, without getting close to them, without using much man power and without consuming more time. 
